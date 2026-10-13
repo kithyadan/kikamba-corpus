@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Large / regenerable artefacts (recreate with `corpus fetch` / `corpus build`)
+models/
+data/cache/
+data/raw/
+logs/drops*.jsonl.gz
+*.part
+
+# NOT redistributable: unclear / all-rights-reserved licences (BSK 2011 Bible, JW-derived pairs, ...)
+data/unverified/
+
+# Personal-use set normally lives outside the repo (~/kikamba-personal); guard in case it's put here
+data/personal/
+tokenizer_models/personal/

@@ -1,0 +1,14 @@
+04:55:57 INFO kikamba_corpus.fetch: flores200          ok: 4018 records in 10s
+04:56:01 INFO kikamba_corpus.fetch: fleurs             ok: 1992 records in 5s
+04:56:06 INFO kikamba_corpus.fetch: tatoeba            ok: 20 records in 5s
+04:57:07 INFO kikamba_corpus.fetch: bloom              ok: 3 records in 61s
+04:57:14 INFO kikamba_corpus.fetch: glotstorybook      ok: 885 records in 7s
+05:02:04 INFO kikamba_corpus.fetch: ddd_asr            ok: 5656 records in 290s
+05:02:07 INFO kikamba_corpus.fetch: kndomboi_cc0       ok: 2 records in 3s
+05:02:13 INFO kikamba_corpus.fetch: fineweb2           ok: 1454 records in 6s
+05:02:17 INFO kikamba_corpus.fetch: finetranslations   ok: 1438 records in 4s
+05:02:18 INFO kikamba_corpus.fetch: hplt2              ok: 1183 records in 2s
+05:02:20 INFO kikamba_corpus.fetch: glotcc             ok: 4 records in 1s
+05:02:22 INFO kikamba_corpus.fetch: finepdfs           ok: 45 records in 2s
+05:03:26 INFO kikamba_corpus.fetch: opus_nllb          ok: 1852257 records in 64s
+05:03:47 INFO kikamba_corpus.fetch: unverified         ok: 135237 records in 22s

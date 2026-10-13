@@ -1,0 +1,51 @@
+{
+ "_source": "Genuine sentences copied verbatim from FLORES-200 dev (CC-BY-SA-4.0, via mteb/flores) and Tatoeba (CC-BY-2.0-FR). Nothing here was written by the pipeline authors.",
+ "kam_long": [
+  "Isese sya mauvoo sya kuu syalivoti kana ngali ya kiwanzani kya ndeke yavaluka isembete ikaokoe.",
+  "O mituki nusindiwe ingi ni Raonic nthini wa Brisbane Open.",
+  "Mavalũa asu moonanishe vengi ikũmi na inya syatetheeisye makastoma athui kũvitha mambilioni ma Ndola sya US ni kenda maikaive koti na syindũ ingi syaile.",
+  "Hsieh avangaa uu ivinda ya usakuani kana Ma no atoloke nthi ivinda ya mathina.",
+  "Aĩ na ngolu ili na atetheesya mala elĩ kũu usindini wa Washĩngton wa ngolu itano kwa itatũ masindite Atlanta Thrashers.",
+  "O ila ngali syai mbee wa Alonso syaendie unywa mauta ungu wa ngali ya usuvîi, aambatie kwosa usindi.",
+  "Mwako niuendee wa ngolova itano nzau kwa saiti, ve ukui katikati na paki ya ulilikany'o vu kati.",
+  "Munene wa Apple Steve Jobs aumililye simu isu na kutembea kitulini na kumilya iPhone kuma mfukoni wa mvuuto wake wa kaki.",
+  "Maroochydore indi asindie caboolture kuu mwisoni.",
+  "Munukani wa vaavu wathukia nzeve nikenda system na mauta ithee nesa kwa itangi ila yitonya ukua ndoma 55,000 (milioni 2.3 sya mitungi)."
+ ],
+ "kam_short": [
+  "Ũvoo!",
+  "Niniendete ngiti.",
+  "Ngiti nisyiukuma.",
+  "Mbaka nikwataa mbia.",
+  "Mbaka hĩĩ nĩ yakwa.",
+  "Huu niw'o usi wa katatu munene nduniani.",
+  "Tom niwe munene waku.",
+  "Nuthambisye ngali?",
+  "Mwaitu atũmie valũa hũũ kwacha.",
+  "Ngali ya mwaki isovetw'e na ngali mũonza."
+ ],
+ "eng": [
+  "Local media reports an airport fire vehicle rolled over while responding.",
+  "He recently lost against Raonic in the Brisbane Open.",
+  "The documents showed fourteen banks helped wealthy clients hide billions of US dollars of wealth to avoid taxes and other regulations.",
+  "Hsieh implied during the election that Ma might flee the country during a time of crisis.",
+  "He had 2 goals and 2 assists in Washington's 5-3 win over the Atlanta Thrashers.",
+  "As the cars ahead of Alonso went in for fuel under the safety car, he moved up the pack to take victory.",
+  "Construction is ongoing for five new skyscrapers at the site, with a transportation center and memorial park in the middle.",
+  "Apple CEO Steve Jobs unveiled the device by walking onto the stage and taking the iPhone out of his jeans pocket.",
+  "Maroochydore then defeated Caboolture in the Preliminary Final.",
+  "The valves opening allowed a pressure release for the system and oil flowed on a pad to a tank that can hold 55,000 barrels (2.3 million gallons)."
+ ],
+ "swh": [
+  "Vyombo vya habari vya ndani vinaripoti kwamba gari la zimamoto la uwanja wa ndege lilibingirika wakati wa kuitikia.",
+  "Hivi karibuni alipoteza dhidi ya Raonic kwenye Brisbane Open.",
+  "Stakabadhi hizo zilionyesha kuwa benki kumi na nne ziliwasaidia wateja wakwasi kuficha mabilioni ya dola za Marekanai ili kuepuka kulipa ushuru na kanuni nyinginezo.",
+  "Hsieh aliashiria wakati wa uchaguzi kwamba huenda Ma akatoroka nchini wakati wa matatizo.",
+  "Alikuwa na goli mbili na saidizi mbili katika ushindi wa Washington wa 5-3 dhidi ya Atlanta Thrashers.",
+  "Huku magari yaliyokuwa mbele ya Alonso yakiingia kuwekwa mafuta chini ya gari la usalama, alienda mbele yao kuchukua ushindi.",
+  "Ujenzi wa ghorofa tano mpya unaendelea katika eneo, na kituo cha usafirishaji na mbuga ya ukumbusho zikiwa katikati.",
+  "Mkurugenzi Mtendaji wa Apple Steve Jobs alizindua kifaa hicho kwa kutembea kuingia kwenye jukwaa na kuitoa iPhone kwenye mfuko wake wa jinzi.",
+  "Kisha Maroochydore iliwashinda Caboolture katika Fainali Ndogo.",
+  "Ufunguzi wa vilango uliruhusu kuachiliwa kwa shinikizo kwa mfumo na mafuta yalitiririka kwenye pedi hadi kwenye tangi ambalo linaweza kubeba mapipa 55,000 (galoni milioni 2.3)."
+ ]
+}

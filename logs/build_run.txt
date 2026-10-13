@@ -1,0 +1,22 @@
+06:31:23 INFO kikamba_corpus.filter.langid: language ID backend: glotlid
+06:31:27 INFO kikamba_corpus.build: flores200          processed 4018 raw records
+06:31:29 INFO kikamba_corpus.build: fleurs             processed 1992 raw records
+06:31:29 INFO kikamba_corpus.build: tatoeba            processed 20 raw records
+06:31:30 INFO kikamba_corpus.build: bloom              processed 170 raw records
+06:31:30 INFO kikamba_corpus.build: glotstorybook      processed 885 raw records
+06:31:34 INFO kikamba_corpus.build: ddd_asr            processed 5656 raw records
+06:31:34 INFO kikamba_corpus.build: kndomboi_cc0       processed 2 raw records
+06:31:59 INFO kikamba_corpus.build: fineweb2           processed 1454 raw records
+06:32:28 INFO kikamba_corpus.build: finetranslations   processed 1438 raw records
+06:32:49 INFO kikamba_corpus.build: hplt2              processed 1183 raw records
+06:32:49 INFO kikamba_corpus.build: glotcc             processed 4 raw records
+06:33:06 INFO kikamba_corpus.build: finepdfs           processed 45 raw records
+06:42:31 INFO kikamba_corpus.build: opus_nllb          processed 1852257 raw records
+06:43:10 INFO kikamba_corpus.build: bsk_bible_2011     processed 1188 raw records
+06:45:11 INFO kikamba_corpus.build: unverified         processed 135237 raw records
+06:45:11 INFO kikamba_corpus.build: [main] near-dedup over 50100 docs
+06:45:40 INFO kikamba_corpus.build: [unverified] near-dedup over 52272 docs
+06:46:27 INFO kikamba_corpus.build: wrote train: 45949 docs
+06:46:27 INFO kikamba_corpus.build: wrote dev: 1464 docs
+06:46:27 INFO kikamba_corpus.build: wrote test: 1446 docs
+06:46:57 INFO kikamba_corpus.build: build report: {'lid_backend': 'glotlid', 'main_after_dedup': 48859, 'unverified_contained_dropped': 30244, 'unverified_after_dedup': 51846, 'split_moved_to_train': 35, 'split_dropped_benchmark_neardup': 0, 'mono_train': 45949, 'mono_dev': 1464, 'mono_test': 1446, 'unverified_mono': 51846, 'parallel:parallel/flores200.jsonl': 4018, 'parallel:parallel/tatoeba.jsonl': 10, 'parallel:parallel/bloom.jsonl': 134, 'parallel:parallel/glotstorybook.jsonl': 819, 'parallel:parallel/finetranslations.jsonl': 1435, 'parallel:parallel/opus_nllb.jsonl': 1241860, 'parallel:unverified/parallel_knox_bible.jsonl': 30486, 'parallel:unverified/parallel_mt560_kam.jsonl': 49316, 'parallel:unverified/parallel_jonathan_kamba.jsonl': 49316}

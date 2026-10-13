@@ -1,0 +1,21 @@
+{
+ "lid_backend": "glotlid",
+ "main_after_dedup": 48859,
+ "unverified_contained_dropped": 30244,
+ "unverified_after_dedup": 51846,
+ "split_moved_to_train": 35,
+ "split_dropped_benchmark_neardup": 0,
+ "mono_train": 45949,
+ "mono_dev": 1464,
+ "mono_test": 1446,
+ "unverified_mono": 51846,
+ "parallel:parallel/flores200.jsonl": 4018,
+ "parallel:parallel/tatoeba.jsonl": 10,
+ "parallel:parallel/bloom.jsonl": 134,
+ "parallel:parallel/glotstorybook.jsonl": 819,
+ "parallel:parallel/finetranslations.jsonl": 1435,
+ "parallel:parallel/opus_nllb.jsonl": 1241860,
+ "parallel:unverified/parallel_knox_bible.jsonl": 30486,
+ "parallel:unverified/parallel_mt560_kam.jsonl": 49316,
+ "parallel:unverified/parallel_jonathan_kamba.jsonl": 49316
+}

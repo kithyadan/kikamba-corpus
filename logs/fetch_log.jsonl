@@ -1,0 +1,16 @@
+{"source": "flores200", "time": "2026-09-26T04:55:47", "status": "ok", "records": 4018, "seconds": 10.1}
+{"source": "fleurs", "time": "2026-09-26T04:55:57", "status": "ok", "records": 1992, "seconds": 4.6}
+{"source": "tatoeba", "time": "2026-09-26T04:56:01", "status": "ok", "records": 20, "seconds": 4.5}
+{"source": "bloom", "time": "2026-09-26T04:56:06", "status": "ok", "records": 3, "seconds": 60.7}
+{"source": "glotstorybook", "time": "2026-09-26T04:57:07", "status": "ok", "records": 885, "seconds": 7.0}
+{"source": "ddd_asr", "time": "2026-09-26T04:57:14", "status": "ok", "records": 5656, "seconds": 290.4}
+{"source": "kndomboi_cc0", "time": "2026-09-26T05:02:04", "status": "ok", "records": 2, "seconds": 3.1}
+{"source": "fineweb2", "time": "2026-09-26T05:02:07", "status": "ok", "records": 1454, "seconds": 6.2}
+{"source": "finetranslations", "time": "2026-09-26T05:02:13", "status": "ok", "records": 1438, "seconds": 3.6}
+{"source": "hplt2", "time": "2026-09-26T05:02:17", "status": "ok", "records": 1183, "seconds": 1.5}
+{"source": "glotcc", "time": "2026-09-26T05:02:18", "status": "ok", "records": 4, "seconds": 1.4}
+{"source": "finepdfs", "time": "2026-09-26T05:02:20", "status": "ok", "records": 45, "seconds": 2.3}
+{"source": "opus_nllb", "time": "2026-09-26T05:02:22", "status": "ok", "records": 1852257, "seconds": 63.5}
+{"source": "unverified", "time": "2026-09-26T05:03:26", "status": "ok", "records": 135237, "seconds": 21.5}
+{"source": "bloom", "time": "2026-09-26T05:02:51", "status": "ok", "records": 170, "seconds": 107.5}
+{"source": "bsk_bible_2011", "time": "2026-09-26T05:29:22", "status": "ok", "records": 1188, "seconds": 0.2}

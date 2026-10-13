@@ -1,0 +1,4 @@
+06:47:00 INFO kikamba_corpus.tokenizer.train: training SentencePiece BPE vocab=8000
+06:47:06 INFO kikamba_corpus.tokenizer.train: vocab=8000 chars/token=3.417 tokens/word=1.771
+06:47:06 INFO kikamba_corpus.tokenizer.train: training SentencePiece BPE vocab=16000
+06:47:12 INFO kikamba_corpus.tokenizer.train: vocab=16000 chars/token=3.670 tokens/word=1.649
